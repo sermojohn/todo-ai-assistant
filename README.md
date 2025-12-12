@@ -20,6 +20,9 @@ Run examples:
 # List all tasks including done ones
 ./todo list --all
 
+# List tasks by priority from high to low
+./todo list --priority 
+
 # Mark task 1 done
 ./todo done 1
 
